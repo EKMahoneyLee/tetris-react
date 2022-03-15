@@ -1,3 +1,13 @@
+# https://www.youtube.com/watch?v=ZGOaCxX8HIU
+# npm start 
+# npm run build
+# serve -s build
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
